@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 
-	number1 := 4
+	number1 := 10
 	number2 := 6
 	number3 := number1 + number2
 
