@@ -7,7 +7,7 @@ import (
 
 func main() {
 
-	name := "Ali"
+	name := "reza"
 
 	fmt.Println(name)
 
