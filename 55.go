@@ -7,7 +7,7 @@ import (
 
 func main() {
 
-	number := 12.5
+	number := 13.5
 
 	fmt.Println(number)
 
