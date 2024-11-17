@@ -1,2 +1,1 @@
-khhg jh
-kjj
+package main
